@@ -505,7 +505,7 @@ p.position {
 }
 
 .social-link .fab:hover {
-  transform: translateY(-10px)
+  transform: translateY(-10px);
 }
 
 .left-part {
